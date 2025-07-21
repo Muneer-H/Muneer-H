@@ -4,7 +4,7 @@
 
 <div align="center">
   
- 🌱 I’m currently learning **NextJS**
+ 🌱 I’m currently learning **NestJS**
 
 💬 Ask me about anything [here](https://github.com/Muneer-H/Muneer-H/issues)
 
